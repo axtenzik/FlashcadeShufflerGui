@@ -1,0 +1,2 @@
+SuperString:no
+SuperSwapCount:0
