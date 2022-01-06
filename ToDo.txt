@@ -1,0 +1,2 @@
+Add total times games been swapped in current session
+Add a way to change the MinTime and MaxTime values
